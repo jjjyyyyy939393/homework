@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="cities">
+        <item>台北巿</item>
+        <item>新北巿</item>
+        <item>桃園巿</item>
+        <item>台中巿</item>
+        <item>台南巿</item>
+        <item>高雄巿</item>
+    </string-array>
+</resources>

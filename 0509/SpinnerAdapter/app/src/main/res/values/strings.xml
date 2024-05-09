@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpinnerAdapter</string>
+    [下午5:15] 胡碩誠
+    <string-array name="dessert">
+        <item>蘋果派</item>
+        <item>可麗餅</item>
+        <item>奶酪</item>
+        <item>現烤鬆餅</item>
+        <item>冰淇淋</item>
+    </string-array>
+    <string-array name="courses">
+        <item>美式漢堡</item>
+        <item>特選牛排</item>
+        <item>牛肉飯</item>
+        <item>義大利麵</item>
+    </string-array>
+
+</resources>

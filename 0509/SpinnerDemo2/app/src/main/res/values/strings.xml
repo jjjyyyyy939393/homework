@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerDemo2</string>
+    <string-array name="op">
+        <item>加法</item>
+        <item>減法</item>
+        <item>乘法</item>
+        <item>除法</item>
+    </string-array>
+</resources>
